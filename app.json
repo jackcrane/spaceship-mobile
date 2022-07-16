@@ -14,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.jackcrane.spaceshipmobile"
@@ -25,8 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#F4F1DE"
-      },
-      "package": "com.jackcrane.spaceshipmobile"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
